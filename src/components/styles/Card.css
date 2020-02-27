@@ -1,0 +1,25 @@
+.card {
+    margin-top: 20px;
+    border: none;
+    border-radius: 8px;    
+    /* background: url('../../images/circles.png') no-repeat, linear-gradient(to right, #A74CF2, #617BFB); */
+}
+
+.fitness-card {
+    max-height: 140px;
+    max-width: 520px;
+}
+
+.fitness-card-info {
+    padding-left: 0;
+    padding-right: 75px;
+    color: #FFF;
+}
+
+.fitness-card-info h1{
+    font-size: 23px;    
+}
+
+.fitness-card-info p{
+    font-size: 11px;    
+}
